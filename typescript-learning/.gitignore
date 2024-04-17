@@ -1,0 +1,4 @@
+# Ignores Compiled JS from TS
+*.js
+
+node_modules/
